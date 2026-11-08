@@ -1,0 +1,108 @@
+{
+    "company": {
+        "company_name": "ABAKUS Immobilienverwaltungsgesellschaft mbH",
+        "location": "Berlin, Germany",
+        "website": "https://www.abakus-immobilien.de/"
+    },
+    "research_period": {
+        "growth_start_year": 2021,
+        "growth_end_year": 2026
+    },
+    "company_name_and_address": {
+        "company_name": "ABAKUS Immobilienverwaltungsgesellschaft mbH",
+        "address": "Revaler Straße 30, 10245 Berlin"
+    },
+    "managed_units": {
+        "value": 7000,
+        "source_url": "https://www.abakus-immobilien.de/",
+        "evidence_text": "Mit über 7.000 betreuten Einheiten in Berlin und Cottbus stehen wir für Erfahrung, Kompetenz und Zuverlässigkeit und stellen sicher, dass Ihre Immobilie gut verwaltet wird.",
+        "selection_method": "Largest reported figure",
+        "other_reported_figures": []
+    },
+    "employees": {
+        "findings": [],
+        "status": "N/A",
+        "note": "Counts and ranges are reported separately. External estimates should not be treated as verified figures."
+    },
+    "digital_customer_experience": {
+        "available": true,
+        "features": [
+            {
+                "feature_name": "Owner or tenant portals",
+                "source_urls": [
+                    "https://www.abakus-immobilien.de/digitale-hausverwaltung/",
+                    "https://www.abakus-immobilien.de/impressum/"
+                ]
+            },
+            {
+                "feature_name": "Online document access",
+                "source_urls": [
+                    "https://www.abakus-immobilien.de/digitale-hausverwaltung/",
+                    "https://www.abakus-immobilien.de/digitale-hausverwaltung/"
+                ]
+            },
+            {
+                "feature_name": "Digital invoice inspection",
+                "source_urls": [
+                    "https://www.abakus-immobilien.de/digitale-hausverwaltung/"
+                ]
+            },
+            {
+                "feature_name": "Online statements",
+                "source_urls": [
+                    "https://www.abakus-immobilien.de/digitale-hausverwaltung/",
+                    "https://www.abakus-immobilien.de/impressum/"
+                ]
+            },
+            {
+                "feature_name": "Digital communication",
+                "source_urls": [
+                    "https://www.abakus-immobilien.de/digitale-hausverwaltung/",
+                    "https://www.abakus-immobilien.de/kontakt/"
+                ]
+            },
+            {
+                "feature_name": "Customer-facing mobile applications",
+                "source_urls": [
+                    "https://www.abakus-immobilien.de/digitale-hausverwaltung/"
+                ]
+            }
+        ],
+        "source_urls": [
+            "https://www.abakus-immobilien.de/",
+            "https://www.abakus-immobilien.de/digitale-hausverwaltung/",
+            "https://www.abakus-immobilien.de/impressum/",
+            "https://www.abakus-immobilien.de/kontakt/",
+            "https://www.abakus-immobilien.de/leistungen/"
+        ]
+    },
+    "company_growth": {
+        "status": "N/A",
+        "type": "N/A",
+        "year": null,
+        "description": null,
+        "source_url": null
+    },
+    "decision_makers": [
+        {
+            "name": "Michael Domnig",
+            "role": "Geschäftsführer",
+            "management_category": "Executive management",
+            "email": "info@abakus-immobilien.de",
+            "linkedin": "https://de.linkedin.com/in/michael-domnig-8b0569417",
+            "source_urls": [
+                "https://www.abakus-immobilien.de/impressum/",
+                "https://www.deutschebiz.de/abakus-immobilienverwaltungsgesellschaft_2j-030-240481250",
+                "https://de.linkedin.com/in/michael-domnig-8b0569417"
+            ]
+        }
+    ],
+    "quality_check": {
+        "missing_fields": [],
+        "missing_source_urls": [
+            "company_growth.source_url"
+        ],
+        "invalid_source_urls": [],
+        "all_expected_fields_present": true
+    }
+}
